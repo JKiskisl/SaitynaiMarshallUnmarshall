@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<School>
+    <SchoolName>VIKO</SchoolName>
+    <student>
+        <name>Justas</name>
+        <subject>Math</subject>
+    </student>
+    <student>
+        <name>Petras</name>
+        <subject>C#</subject>
+    </student>
+    <student>
+        <name>Jonas</name>
+        <subject>Literature</subject>
+    </student>
+    <student>
+        <name>Virgilijus</name>
+        <subject>Engineering</subject>
+    </student>
+    <student>
+        <name>Nikolajus</name>
+        <subject>JavaScript</subject>
+    </student>
+    <student>
+        <name>Gabija</name>
+        <subject>Philosophy</subject>
+    </student>
+    <student>
+        <name>Augustas</name>
+        <subject>Psychology</subject>
+    </student>
+</School>

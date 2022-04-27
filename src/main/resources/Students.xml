@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cns:School
+        xmlns:cns="http://Kiskis/Students.xsd"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <SchoolName>VIKO</SchoolName>
+    <student>
+        <name>Justas</name>
+        <subject>Math</subject>
+    </student>
+    <student>
+        <name>Petras</name>
+        <subject>C#</subject>
+    </student>
+    <student>
+        <name>Jonas</name>
+        <subject>Literature</subject>
+    </student>
+    <student>
+        <name>Virgilijus</name>
+        <subject>Engineering</subject>
+    </student>
+    <student>
+        <name>Nikolajus</name>
+        <subject>JavaScript</subject>
+    </student>
+    <student>
+        <name>Gabija</name>
+        <subject>Philosophy</subject>
+    </student>
+    <student>
+        <name>Augustaszzzzzzzzzzzzzzzzzzzzzzzz</name>
+        <subject>Psychology</subject>
+    </student>
+</cns:School>
